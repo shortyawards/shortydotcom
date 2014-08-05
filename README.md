@@ -1,2 +1,1 @@
-shorty.github.io
-================
+shorty.com
